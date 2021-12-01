@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Stylish&display=swap');
+
+.bg-color{
+    background-color: rgb(26 61 93)!important;
+    color: white!important;
+}
+
+.brand-name{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Stylish', sans-serif;
+    color: skyblue!important;
+}
+
+.navbar-nav>ul>li{
+    color: white;
+}
